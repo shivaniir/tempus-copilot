@@ -1,0 +1,6 @@
+Physician_Name,Clinic_System,Oncology_Specialty,Estimated_Patient_Volume,Current_Testing_Platform
+Dr. Amanda Smith,Northwestern Memorial,Breast Cancer,140,Standard In-House IHC
+Dr. Robert Chen,Rush University Medical,Colorectal Cancer,95,Competitor X Genomic Panel
+Dr. Sarah Jenkins,University of Chicago Medicine,Lung Cancer (NSCLC),180,None (Tissue scarcity issues)
+Dr. Michael Patel,DuPage Medical Group,General Oncology,60,Standard Hotspot Panel
+Dr. Elena Rostova,Advocate Health,Prostate Cancer,110,Competitor Y Liquid Biopsy
